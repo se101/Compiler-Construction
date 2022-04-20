@@ -1,0 +1,14 @@
+//PSH program: With String Literals and Floating Point Literals
+
+int main()
+{
+char str1[12]="HelloWorld";
+char str2[]="HelloNewWorld";
+
+float pi=3.14;
+float circ;
+int radius=1;
+circ=2*pi*radius;
+
+return 0;
+}
